@@ -1,0 +1,76 @@
+h1, h2 
+{
+	text-align: center;
+	color: black;
+	font-family: monospace;
+}
+
+h3
+{
+	text-align: center;
+	color: green;
+	font-family: monospace;
+}
+
+h4, h5
+{
+	text-align: center;
+	color: black;
+	font-size: 16px;
+	font-family: courier new;
+}
+
+ul
+{
+	font-size: 16px;
+	color: green;
+	text-align: center;
+}
+
+body
+{
+	background-color: ivory;
+}
+
+p
+{
+	text-align: center;
+	font-family: verdana;
+	font-size: 16px;
+}
+
+.text-center
+{
+	text-align: center;
+}
+
+#rounded-img
+{
+	border-radius: 30px;
+}
+
+img
+{
+	display: block;
+	margin: auto;
+}
+
+td, th
+{
+	padding: 10px;
+	text-align: center;
+	border-bottom: 1px solid #ddd;
+}
+
+tr:hover
+{
+	background-color: lightblue;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+.center
+{
+	margin-left: auto;
+	margin-right: auto;
+}
